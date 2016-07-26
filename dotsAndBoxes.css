@@ -139,6 +139,7 @@ height:59px;
 }
 
 #buttons{
+margin: 15px;
 clear:both;
 float:left;
 background-color: skyblue;
@@ -147,7 +148,7 @@ opacity:0.7
 }
 
 input[type=button] {
-    width: 268px;  height: 25px;
+    width: 250px;  height: 25px;
     box-shadow: 20px 20px 50px gray;
     text-shadow: 10px 10px 30px #1c1c1c;
     font-size: 15px; opacity=0.7;
